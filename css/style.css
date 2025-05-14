@@ -1,0 +1,205 @@
+
+.homepage-image-container {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+  --primary-color: #27272a;
+  --secondary-color: #65656d;
+  --tertiary-color: #acacb4;
+  --quaternary-color: #e4e4e7;
+  --link-color: #14b8a6;
+  --primary-font: "Heebo", sans-serif;
+  --secondary-font: "Roboto", sans-serif;
+  font-family: var(--primary-font);
+  -webkit-font-smoothing: antialiased;
+  width: 300px;
+  height: 300px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 10px;
+  order: 1;
+}
+
+.homepage-image-wrapper {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+  --primary-color: #27272a;
+  --secondary-color: #65656d;
+  --tertiary-color: #acacb4;
+  --quaternary-color: #e4e4e7;
+  --link-color: #14b8a6;
+  --primary-font: "Heebo", sans-serif;
+  --secondary-font: "Roboto", sans-serif;
+  font-family: var(--primary-font);
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+  border-radius: 10%;
+  transform: rotate(3deg);
+}
+
+.homepage-image {
+  --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+  --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+  --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+  --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+  --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+  --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+  --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+  --primary-color: #27272a;
+  --secondary-color: #65656d;
+  --tertiary-color: #acacb4;
+  --quaternary-color: #e4e4e7;
+  --link-color: #14b8a6;
+  --primary-font: "Heebo", sans-serif;
+  --secondary-font: "Roboto", sans-serif;
+  font-family: var(--primary-font);
+  -webkit-font-smoothing: antialiased;
+  width: 100%;
+}
+
+.nav-container {
+        --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+    --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+    --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+    --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+    --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+    --primary-color: #27272a;
+    --secondary-color: #65656d;
+    --tertiary-color: #acacb4;
+    --quaternary-color: #e4e4e7;
+    --link-color: #14b8a6;
+    --primary-font: "Heebo", sans-serif;
+    --secondary-font: "Roboto", sans-serif;
+    font-family: var(--primary-font);
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar1 {
+        --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+    --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+    --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+    --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+    --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+    --primary-color: #27272a;
+    --secondary-color: #65656d;
+    --tertiary-color: #acacb4;
+    --quaternary-color: #e4e4e7;
+    --link-color: #14b8a6;
+    --primary-font: "Heebo", sans-serif;
+    --secondary-font: "Roboto", sans-serif;
+    font-family: var(--primary-font);
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 3vh;
+    z-index: 999;
+}
+
+.nav-background {
+        --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+    --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+    --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+    --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+    --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+    --primary-color: #27272a;
+    --secondary-color: #65656d;
+    --tertiary-color: #acacb4;
+    --quaternary-color: #e4e4e7;
+    --link-color: #14b8a6;
+    --primary-font: "Heebo", sans-serif;
+    --secondary-font: "Roboto", sans-serif;
+    font-family: var(--primary-font);
+    -webkit-font-smoothing: antialiased;
+    width: 380px;
+    height: 40px;
+    padding-left: 0%;
+    padding-right: 0%;
+    background: #fff;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 40px;
+}
+
+.nav-list {
+        --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+    --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+    --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+    --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+    --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+    --primary-color: #27272a;
+    --secondary-color: #65656d;
+    --tertiary-color: #acacb4;
+    --quaternary-color: #e4e4e7;
+    --link-color: #14b8a6;
+    --primary-font: "Heebo", sans-serif;
+    --secondary-font: "Roboto", sans-serif;
+    font-family: var(--primary-font);
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    margin-left: -16px;
+    margin-right: 20px;
+    margin-top: 11px;
+}
+
+.nav-item1 {
+        --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+    --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+    --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+    --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+    --fa-font-sharp-solid: normal 900 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-regular: normal 400 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-light: normal 300 1em/1 "Font Awesome 6 Sharp";
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+    --primary-color: #27272a;
+    --secondary-color: #65656d;
+    --tertiary-color: #acacb4;
+    --quaternary-color: #e4e4e7;
+    --link-color: #14b8a6;
+    --primary-font: "Heebo", sans-serif;
+    --secondary-font: "Roboto", sans-serif;
+    font-family: var(--primary-font);
+    -webkit-font-smoothing: antialiased;
+    list-style: none;
+    font-weight: bold;
+    font-size: 80%;
+}
